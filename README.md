@@ -1,2 +1,4 @@
 # Bangladesh_National_Flag
-Drawing BD National Flag using Turtle graphics in Python
+Drawing the Bangladesh national flag using Turtle graphics in Python
+
+Just run main.py!
